@@ -1,6 +1,6 @@
 # Hi 👋, I'm Edivin
 
-- 🌱 I'm currently learning **Python and Java**
+- 🌱 I'm currently learning **JS and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
